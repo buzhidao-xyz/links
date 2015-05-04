@@ -10,8 +10,8 @@
 ### - Javascript
 
 ### - jQuery
-[jQuery API中文文档](http://www.jquery123.com/api/)
-[jQuery-Fakecrop 图片排列裁剪格式化](http://vuongnguyen.com/fake-cropping-images-with-jquery.html)
-[jQuery-cropper 图片裁剪插件](http://fengyuanchen.github.io/cropper/)
+[jQuery API中文文档](http://www.jquery123.com/api/)<br/>
+[jQuery-Fakecrop 图片排列裁剪格式化](http://vuongnguyen.com/fake-cropping-images-with-jquery.html)<br/>
+[jQuery-cropper 图片裁剪插件](http://fengyuanchen.github.io/cropper/)<br/>
 
 
