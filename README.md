@@ -8,7 +8,13 @@
 * [swoole：PHP的异步 并行 分布式扩展](http://www.swoole.com/)
 * [php-fpm - 启动参数及重要配置详解](http://www.4wei.cn/archives/1002061)
 * [PHP PSR代码标准中文版](https://github.com/hfcorriez/fig-standards)
+
+### - PHP学习
 * [PHP之道：PHP学习资料整理](http://laravel-china.github.io/php-the-right-way/)
+* [PHP手册：官方中文版](http://php.net/manual/zh/)
+
+### - PHP框架
+* [Lavarel：简洁优雅的PHP开发框架](http://www.golaravel.com/)
 
 ### - PHP Composer
 * [Composer：PHP的项目依赖管理工具](http://www.phpcomposer.com/)
