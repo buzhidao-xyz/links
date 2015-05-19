@@ -27,6 +27,10 @@
 * [jQuery-Fakecrop 图片排列裁剪格式化](http://vuongnguyen.com/fake-cropping-images-with-jquery.html)
 * [jQuery-cropper 图片裁剪插件](http://fengyuanchen.github.io/cropper/)
 
+### - jQuery
+* [AngularJS的五个超酷特性](http://www.gbtags.com/technology/javascript/20120717-AugularJS-features/)
+* [AngularJS入门教程](http://www.ituring.com.cn/minibook/303)
+
 ### - CSS
 * [Bootstrap 中文文档](http://v3.bootcss.com/getting-started/)
 
