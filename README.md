@@ -1,6 +1,10 @@
 # links
 > 搜集整理的资料链接（搜索、备忘）
 
+### - 镜像源
+* [网易](http://mirrors.163.com/)
+* [搜狐](http://mirrors.sohu.com/)
+
 ### - IDE
 * [Markdown 语法说明 (简体中文版)](http://www.appinn.com/markdown/)
 
