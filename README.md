@@ -12,7 +12,7 @@
 * [swoole：PHP的异步 并行 分布式扩展](http://www.swoole.com/)
 * [php-fpm - 启动参数及重要配置详解](http://www.4wei.cn/archives/1002061)
 * [PHP PSR代码标准中文版](https://github.com/hfcorriez/fig-standards)
-* [PHP使用协同程序实现合作多任务](http://www.oschina.net/translate/cooperative-multitasking-using-coroutines-in-php)
+* [PHP使用协同程序实现合作多任务](http://www.laruence.com/2015/05/28/3038.html)
 
 ### - PHP框架
 * [Lavarel：简洁优雅的PHP开发框架](http://www.golaravel.com/)
