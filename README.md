@@ -25,6 +25,12 @@
 * [Composer：PHP的项目依赖管理工具](http://www.phpcomposer.com/)
 * [Composer.json配置详解](http://composer.json.jolicode.com/)
 
+### - Golang
+* [Golang中国](http://www.golangtc.com/)
+
+### - Html5
+* [Html5入门教程](http://www.w3school.com.cn/html5/)
+
 ### - Javascript
 
 ### - jQuery
