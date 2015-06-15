@@ -40,8 +40,13 @@
 * [jQuery-colorbox](http://www.jacklmoore.com/colorbox/)
 
 ### - AngularJS
+* [AngularJS](http://angularjs.apjs.net/)
 * [AngularJS的五个超酷特性](http://www.gbtags.com/technology/javascript/20120717-AugularJS-features/)
 * [AngularJS入门教程](http://www.ituring.com.cn/minibook/303)
+
+### - ReactJS
+* [ReactJS](http://www.reactjs.cn/react/index.html)
+* [React.js概览](http://segmentfault.com/a/1190000000693651)
 
 ### - CSS
 * [Bootstrap 中文文档](http://v3.bootcss.com/getting-started/)
