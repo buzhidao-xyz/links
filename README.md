@@ -27,6 +27,9 @@
 
 ### - Golang
 * [Golang中国](http://www.golangtc.com/)
+* [Go编程基础](https://github.com/imbzd/go-fundamental-programming)
+* [Go Web基础](https://github.com/Unknwon/go-web-foundation)
+* [Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases)
 
 ### - Html5
 * [Html5入门教程](http://www.w3school.com.cn/html5/)
