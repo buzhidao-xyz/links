@@ -33,6 +33,7 @@
 
 ### - Html5
 * [Html5入门教程](http://www.w3school.com.cn/html5/)
+* [极客学院Html5课程](http://www.jikexueyuan.com/path/html5/)
 
 ### - Javascript
 
