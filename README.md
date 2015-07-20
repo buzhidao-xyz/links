@@ -49,12 +49,12 @@
 * [AngularJS的五个超酷特性](http://www.gbtags.com/technology/javascript/20120717-AugularJS-features/)
 * [AngularJS入门教程](http://www.ituring.com.cn/minibook/303)
 
-### - ReactJS
-* [ReactJS](http://www.reactjs.cn/react/index.html)
-* [React.js概览](http://segmentfault.com/a/1190000000693651)
-
 ### - CSS
 * [Bootstrap 中文文档](http://v3.bootcss.com/getting-started/)
+
+### - 移动WebAPP开发框架
+* [Ionic](https://github.com/driftyco/ionic)
+* [Ionic中文文档](http://www.ionic.wang/js_doc-index.html)
 
 ### - iOS
 * [iOS消息推送原理及实现Demo](http://www.cnblogs.com/cdts_change/p/3240893.html)
