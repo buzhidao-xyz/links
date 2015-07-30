@@ -39,6 +39,8 @@
 ### - Javascript
 * [iScroll](https://github.com/cubiq/iscroll)
 
+* [深入解析ES6系列](http://web.jobbole.com/82896/)
+
 ### - jQuery
 * [jQuery API中文文档](http://www.jquery123.com/api/)
 * [jQuery-Fakecrop 图片排列裁剪格式化](http://vuongnguyen.com/fake-cropping-images-with-jquery.html)
