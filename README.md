@@ -37,8 +37,8 @@
 * [极客学院Html5课程](http://www.jikexueyuan.com/path/html5/)
 
 ### - Javascript
-* [iScroll 平滑触摸滑动框架](https://github.com/cubiq/iscroll)
-* [Swiper 移动设备触摸滑动框架](https://github.com/nolimits4web/Swiper)
+* [iScroll - 平滑触摸滑动框架](https://github.com/cubiq/iscroll)
+* [Swiper - Touch Slider](https://github.com/nolimits4web/Swiper)
 
 ### - Javascript技术资料
 * [深入解析ES6系列](http://web.jobbole.com/82896/)
