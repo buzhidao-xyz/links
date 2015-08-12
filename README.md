@@ -37,8 +37,10 @@
 * [极客学院Html5课程](http://www.jikexueyuan.com/path/html5/)
 
 ### - Javascript
-* [iScroll](https://github.com/cubiq/iscroll)
+* [iScroll 平滑触摸滑动框架](https://github.com/cubiq/iscroll)
+* [Swiper 移动设备触摸滑动框架](https://github.com/nolimits4web/Swiper)
 
+### - Javascript技术资料
 * [深入解析ES6系列](http://web.jobbole.com/82896/)
 
 ### - jQuery
@@ -54,6 +56,7 @@
 
 ### - CSS
 * [Bootstrap 中文文档](http://v3.bootcss.com/getting-started/)
+* [Pure css](http://purecss.io/)(http://pure-site.ap01.aws.af.cm/)
 
 ### - 移动WebAPP开发框架
 * [Ionic](https://github.com/driftyco/ionic)
@@ -63,7 +66,7 @@
 ### - iOS
 * [iOS消息推送原理及实现Demo](http://www.cnblogs.com/cdts_change/p/3240893.html)
 
-### - 移动端开发
+### - 移动端开发技术资料
 * [聊聊移动端跨平台开发的各种技术](http://fex.baidu.com/blog/2015/05/cross-mobile/)
 
 ### - 技术资料收藏
