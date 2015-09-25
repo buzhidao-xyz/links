@@ -32,6 +32,9 @@
 * [Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases)
 * [Windows GUI库](https://github.com/lxn/walk)
 
+### - Golang框架
+* [beego](http://beego.me/)
+
 ### - Html5
 * [Html5入门教程](http://www.w3school.com.cn/html5/)
 * [极客学院Html5课程](http://www.jikexueyuan.com/path/html5/)
