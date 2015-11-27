@@ -51,6 +51,7 @@
 * [jQuery-Fakecrop 图片排列裁剪格式化](http://vuongnguyen.com/fake-cropping-images-with-jquery.html)
 * [jQuery-cropper 图片裁剪插件](http://fengyuanchen.github.io/cropper/)
 * [jQuery-colorbox](http://www.jacklmoore.com/colorbox/)
+* [jQuery-fullPage 单页全屏滚动插件](https://github.com/alvarotrigo/fullPage.js)(http://www.51xuediannao.com/demo.php)
 
 ### - AngularJS
 * [AngularJS](http://angularjs.apjs.net/)
