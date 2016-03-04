@@ -42,6 +42,7 @@
 ### - Javascript
 * [iScroll - 平滑触摸滑动框架](https://github.com/cubiq/iscroll)
 * [Swiper - Touch Slider](https://github.com/nolimits4web/Swiper)
+* [Require.js - js模块化加载](http://www.requirejs.cn/)
 
 ### - Javascript技术资料
 * [深入解析ES6系列](http://web.jobbole.com/82896/)
@@ -62,6 +63,9 @@
 ### - CSS
 * [Bootstrap 中文文档](http://v3.bootcss.com/getting-started/)
 * [Pure css](http://purecss.io/)(http://pure-site.ap01.aws.af.cm/)
+
+### - UI
+* [weui - 微信web官方UI框架](https://github.com/weui/weui)
 
 ### - 移动WebAPP开发框架
 * [Ionic](https://github.com/driftyco/ionic)
